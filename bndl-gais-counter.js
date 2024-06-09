@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log('gais counter v.dev.1.11 loaded')\n\n//# sourceURL=webpack://gais_counter_02/./src/index.js?");
+eval("console.log('gais counter v.dev.1.12 loaded')\n\n//# sourceURL=webpack://gais_counter_02/./src/index.js?");
 
 /***/ })
 
